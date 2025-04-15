@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Summarizer</string>
+    <string name="youtube_url_hint">Enter YouTube URL</string>
+    <string name="summarize_button">Summarize</string>
+    <string name="summary_placeholder">Summary will appear here</string>
+    <string name="api_key_hint">Enter OpenRouter API Key</string>
+    <string name="model_hint">Enter Model Name (e.g., mistralai/mistral-7b-instruct)</string>
+</resources>
