@@ -61,9 +61,6 @@ MySummarizer is an Android application that allows users to generate concise sum
 
 MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributing
-
-Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## Acknowledgments
 
